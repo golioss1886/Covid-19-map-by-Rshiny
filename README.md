@@ -1,1 +1,1 @@
-# Covid-19-map-by-Rshiny
+# Covid-19-map by Rshiny
