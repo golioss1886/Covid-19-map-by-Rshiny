@@ -1,3 +1,3 @@
 # Covid-19-map by Rshiny
 
-![dangerous](https://imgur.com/a/F53Yjlx)
+![](https://i.imgur.com/uRDTmKO.jpg)
